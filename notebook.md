@@ -1,3 +1,12 @@
+09/13/2018-09/20/2018
+
++ Completed technology summaries
++ Submitted pull request for the technology summaries
++ Identified project topic - Cloud computing for financial robo-advisors
++ Performed inital research and set up template
++ Looked for LaTeX template to match the formats of previously submitted projects.
+
+
 09/07/2018-09/13/2018
 
 + Began the Technology summaries

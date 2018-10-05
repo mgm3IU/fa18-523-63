@@ -1,3 +1,13 @@
+09/28/2018-10/04/2018
++ Began writing for the papers that are due for the course
++ Identified topic for main project as cloud computing for robo-advisors
++ Began research on the topic
+
+09/21/2018-09/27/2018
++ Studied course materials
++ Still trying to understand the course navigation as it is EXTREMELY confusing
++ Working on final project
+
 09/13/2018-09/20/2018
 
 + Completed technology summaries

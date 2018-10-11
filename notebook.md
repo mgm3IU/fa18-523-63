@@ -1,3 +1,8 @@
+10/05/2018-10/11/2018
++ Wrote 2000 word paper on scikit-learn
++ Created snapshot of project which will be posted on 10/11
++ Set up lab environment for the project
+
 09/28/2018-10/04/2018
 + Began writing for the papers that are due for the course
 + Identified topic for main project as cloud computing for robo-advisors

@@ -1,5 +1,12 @@
 # scikit-learn
 
+* :o: you need to separate this in two deliverables, 
+
+  a) one for scikit learn in general
+  b) one that focusses on your paper
+
+  They need to be in different directories and files
+
 Scikit-learn is Python's inherent machine learning library. It is a robust library that intends uses object oriented programming to implement commonly used machine learning algorithms effectively, efficiently, pythonically, and swiftly. While, for specific purposes, many experts are able to implement their own algorithms that may improve upon the Scikit-learn library, it has sufficient tools and robustness that enable it to be the leading library for machine learning topics within Python.
 
 Many people downplay the need for effective centralized machine learning algorithms as there are many experts in the industry that can hard code sophisticated algorithms from scratch. For the rest of us, the yet-to-become experts, there are built in libraries to Python that can make these tasks much simpler to understand and to implement. Despite these experts, junior machine learning experts are gaining footing in the industry and are able to gain reputation, thanks to the help of many of these libraries.

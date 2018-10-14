@@ -10,11 +10,13 @@ technologies:
   - url: https://github.com/cloudmesh/technologies/blob/master/chapters/tech/google-bigquery.md
   - url: https://github.com/cloudmesh/technologies/blob/master/chapters/tech/disco.md
 paper:
-  - title: "scikit-learn"
+  - title: "Scikit-learn"
+    keyword: Scikit-learn
     url: https://github.com/cloudmesh-community/fa18-523-63/tree/master/paper
     group: fa18-523-63
 project:
   - title: A Cloud Computing Approach to Financial Decision Automation
+    keyword: Finance
     url: https://github.com/cloudmesh-community/fa18-523-63/tree/master/project
     group: fa18-523-63
     code: https://github.com/cloudmesh-community/fa18-523-63/tree/master/project/project-code

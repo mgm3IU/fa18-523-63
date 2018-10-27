@@ -1,4 +1,4 @@
-# scikit-learn
+# scikit-learn :hand: :fa18-523-63
 
 * :o: put outhor here so we can idntify you, see example
 * :o: you need to separate this in two deliverables

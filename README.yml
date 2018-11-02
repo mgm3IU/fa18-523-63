@@ -5,6 +5,7 @@ owner:
   hid: "fa18-523-63"
   community: "i524"
   semester: fa18
+  profile: "https://github.com/mgm3IU"
 technologies:
   - url: https://github.com/cloudmesh/technologies/blob/master/chapters/tech/openid.md
   - url: https://github.com/cloudmesh/technologies/blob/master/chapters/tech/ftp.md

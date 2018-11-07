@@ -19,6 +19,6 @@ paper:
 project:
   - title: A Cloud Computing Approach to Financial Decision Automation
     keyword: Finance
-    url: https://github.com/cloudmesh-community/fa18-523-63/tree/master/project
+    url: https://github.com/cloudmesh-community/fa18-523-63/blob/master/project-report/report.md
     group: fa18-523-63
     code: https://github.com/cloudmesh-community/fa18-523-63/tree/master/project/project-code

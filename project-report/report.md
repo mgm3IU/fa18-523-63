@@ -28,11 +28,12 @@ Tensorflow libraries [@www-tensorflow] and use cases for them. The storage for
 this project will occur externally, enabling this project to be performed using
 cloud computing [@www-machine-learning-cloud]. Data sources are pulled from the
 Google Finance [@www-google-finance]. The code is used from the aforementioned
-sources and code as written by the author of this paper [@www-fa18-523-63
--project-code]. The goal of any financial advisor is to make decisions that beat
-the rate of inflation. There are large amounts of uncertainty with any decision
-made regarding the New York Stock Exchange [@www-nyse]. An intelligently built
-and well-diversified investment portfolio can prove to be very lucrative.
+sources and code as written by the author of this paper 
+[@www-fa18-523-63-project-code]. The goal of any financial advisor is to make
+decisions that beat the rate of inflation. There are large amounts of 
+uncertainty with any decision made regarding the New York Stock Exchange
+[@www-nyse]. An intelligently built and well-diversified investment portfolio
+can prove to be very lucrative.
 
 
 ## Introduction

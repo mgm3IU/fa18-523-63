@@ -14,7 +14,7 @@ technologies:
 paper:
   - title: "Scikit-learn"
     keyword: Scikit-learn
-    url: https://github.com/cloudmesh-community/fa18-523-63/tree/master/paper
+    url: https://github.com/cloudmesh-community/fa18-523-63/blob/master/paper/paper.md
     group: fa18-523-63
 project:
   - title: A Cloud Computing Approach to Financial Decision Automation

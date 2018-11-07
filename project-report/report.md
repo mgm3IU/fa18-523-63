@@ -40,41 +40,7 @@ portfolio can prove to be very lucrative.
 
 ## Introduction
 
-One possible way of structuring the document.
-We may have to tweak this example as we progress.
-
-Make sure paragraphs are 80 chars wide 
-
-Place images in an images directory
-
-Use empty lines before and after headings
-
-In [@vonLaszwski-fa18-sample-report] we can find a sample report.
-
-Naturally the headings are just suggestions and you may change them as
-appropriate for your project.
-
 ## Requirements
-
-All images must be referred to in the text. The words bellow and above
-must not be used in your paper for images, tables, and code.
-
-+@fig:fromonetotheorther shows a nice figure exported from Powerpoint
-to png. If you like you can use this as a basis for your drawings.
-
-![A simple flow chart](images/from-one-to-the-other.png){#fig:fromonetotheorther}
-
-Figures must not be cited with an explicit number, but automated
-numbering must be used. Here is how we did it for this paper:
-
-```
-+@fig:fromonetotheorther shows a nice
-figure exported from Powerpoint to png.
-If you like you can use this as a basis
-for your drawings.
-
-![A simple flow chart](images/from-one-to-the-other.png){#fig:fromonetotheorther}
-```
 
 ## Design 
 
@@ -90,6 +56,3 @@ for your drawings.
 
 ## Acknowledgement
 
-## Workbreakdown
-
-Only needed if you work in a group.

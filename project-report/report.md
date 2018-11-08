@@ -71,8 +71,13 @@ libraries [@fa18-523-63-www-tensorflow].
 ## Requirements
 
 ## Design 
+
 ### Topology
+
+This project is built on a CentOS server [@fa18-523-63-www-centos]. On this server, Python 3.6 [@fa18-523-63-www-python-36] will be used as the language. The Python wrapper for Tensorflow is installed independently [@fa18-523-63-www-tensorflow]. The following methods from the Tensorflow library are used: tf.contrib.factorization.KMeans, tf.contrib.factorization.KMeansClustering, tf.contrib.learn.LinearRegressor, tf.contrib.learn.LogisticRegressor, tf.contrib.nn. These methods are used to take the input data from the Google Finance tool [@fa18-523-63-www-google-finance] and perform their operations to classify whether a given stock is a strong sell, sell, neutral, buy, or strong buy. This operation is then run daily to make a decision with such granularity whether a given stock is worth the risk.
+
 ### Neural Networks
+
 Neural Networks are used with deep learning principles and capabilities. Neural
 networks are second to none when it comes to image classification, deep
 learning, and more [@fa18-523-63-www-nn-dl]. Based loosely on the human neural

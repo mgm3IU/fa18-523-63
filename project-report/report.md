@@ -72,6 +72,8 @@ libraries [@fa18-523-63-www-tensorflow].
 
 ## Design 
 
+Neural Networks are used with deep learning principles and capabilities. Neural networks are second to none when it comes to image classification, deep learning, and more [@fa18-523-63-www-nn-dl]
+
 ## Architecture
 
 ## Dataset

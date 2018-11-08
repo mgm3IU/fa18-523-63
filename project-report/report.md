@@ -93,8 +93,11 @@ networks can be used as a clustering algorithm, without classification assignmen
 [@fa18-523-63-www-unsup-ann].
 
 ### Logistic Regression
+In its simpler forms, logistic regression [@fa18-523-63-www-logreg] takes input values and uses those to provide a classification based on the variables to the data. It is robust to highly correlated variables, concise representation, and high explanatory value with probability estimation [@fa18-523-63-emc-big-data]. Logistic regression is a supervised learning model, meaning that it depends on training data to provide results accurately and efficiently. Tensorflow methods contain the needed utilities to perform logistic regression with high efficiency [@fa18-523-63-www-tensorflow].
 
 ### K-Means Clustering
+
+K-means is an unsupervised clustering algorithm [@fa18-523-63-www-msu-kmeans]. It uses a distance algorithm, typically Euclidean, to determine clusters based on numerical data. The goal is to maximize the distance between clusters while minimizing the distance between the data points and the centroid of each cluster [@fa18-523-63-emc-big-data]. This is an iterative process which tends to converge quickly. It is, however, senstive to initilization which is the largest downfall of the K-mean algorithm [@fa18-523-63-emc-big-data].
 
 ## Architecture
 

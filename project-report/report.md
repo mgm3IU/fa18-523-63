@@ -77,11 +77,14 @@ networks are second to none when it comes to image classification, deep
 learning, and more [@fa18-523-63-www-nn-dl]. Based loosely on the human neural
 network, a layered network of neurons take input values, perform mathematical
 computations to find trends and relevancy, and output that is typically a
-classification, based on the inputs [@fa18-523-63-www-ann-human]. In supervised
-methods, training datasets are required to make neural networks function. In
-unsupervised methods and with careful tuning, artificial neural networks can be
-used as a clustering algorithm, without classification assignment [@fa18-523-63
--www-unsup-ann].
+classification, based on the inputs [@fa18-523-63-www-ann-human].
+
+![Artificial Neural Network Inputs to Outputs](https://github.com/mgm3IU/fa18-523-63/blob/master/project-pictures/ANN.PNG)
+
+In supervised methods, training datasets are required to make neural networks
+function. In unsupervised methods and with careful tuning, artificial neural
+networks can be used as a clustering algorithm, without classification assignment
+[@fa18-523-63-www-unsup-ann].
 
 ## Architecture
 

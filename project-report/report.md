@@ -71,7 +71,8 @@ libraries [@fa18-523-63-www-tensorflow].
 ## Requirements
 
 ## Design 
-
+### Topology
+### Neural Networks
 Neural Networks are used with deep learning principles and capabilities. Neural
 networks are second to none when it comes to image classification, deep
 learning, and more [@fa18-523-63-www-nn-dl]. Based loosely on the human neural
@@ -85,6 +86,10 @@ In supervised methods, training datasets are required to make neural networks
 function. In unsupervised methods and with careful tuning, artificial neural
 networks can be used as a clustering algorithm, without classification assignment
 [@fa18-523-63-www-unsup-ann].
+
+### Logistic Regression
+
+### K-Means Clustering
 
 ## Architecture
 
